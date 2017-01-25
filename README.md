@@ -1,5 +1,5 @@
 # hello-world
-My first supos- I mean repository
+My first suppos- I mean repository
 
 public static void main(String[] args){
       Mikeal mikeal01 = new Mikeal();
